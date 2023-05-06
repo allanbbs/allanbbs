@@ -8,7 +8,4 @@
 
 - Contact:
     - Email: allanbp.br@gmail.com
-    - ![LinkedIn](https://www.linkedin.com/in/allan-borges-sousa-701718197/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanbbs&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+    - ![LinkedIn](https://www.linkedin.com/in/allanbbs/)
